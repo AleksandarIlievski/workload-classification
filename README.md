@@ -38,8 +38,8 @@ workload-classification/
 
 ## How to Use
 
-1. Click **"Open in Colab"** to launch the notebook in Google Colab.
-2. Download the dataset using the **"Download Data"** button.
+1. Download the dataset using the **"Download Data"** button.
+2. Click **"Open in Colab"** to launch the notebook in Google Colab.
 3. Upload `at_home_data.pkl` and the `results` folder to the Colab environment and adjust the paths in the notebook.
 4. Follow the notebook instructions to load the data, train models, and evaluate performance.
 
