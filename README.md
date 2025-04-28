@@ -6,7 +6,7 @@
 This repository contains the code, data structure, and resources developed for my Master’s Thesis *"Towards Generalizable Mental Workload Classification for Self-Collected EEG Data."*  
 The project explores the challenges and possibilities of session- and subject-independent workload classification using EEG data collected independently by participants outside controlled laboratory settings.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1LZMl9t2vB1sM2XhFzEstHbF8In2g4nS3/view?usp=share_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AleksandarIlievski/workload-classification/blob/main/notebook.ipynb)
 
 ## Overview
 
