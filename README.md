@@ -11,7 +11,7 @@ The project explores the challenges and possibilities of session- and subject-in
 **1. Download Dataset:**  [![Download Data](https://img.shields.io/badge/Download-at_home_data.pkl-success?logo=google-drive&logoColor=white)](https://drive.google.com/uc?id=1HpaUvauJwK04ftqqrOAZWjscVMcefecp&export=download) 
 
 
-**2. Open Notebook in Colab:**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AleksandarIlievski/workload-classification/blob/main/notebook.ipynb) 
+**2. Open Notebook in Colab:**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AleksandarIlievski/workload-classification/blob/main/mwl_classification.ipynb) 
 
 
 ## Project Description 📚
