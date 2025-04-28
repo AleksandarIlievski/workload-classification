@@ -3,35 +3,49 @@
 
 > **Master’s Thesis by Aleksandar Ilievski** 🎓
 
-This repository contains the code, data structure, and resources developed for my Master’s Thesis *"Towards Generalizable Mental Workload Classification for Self-Collected EEG Data."*  
+This is the official repository for my Master’s Thesis *"Towards Generalizable Mental Workload Classification for Self-Collected EEG Data."*  
 The project explores the challenges and possibilities of session- and subject-independent workload classification using EEG data collected independently by participants outside controlled laboratory settings.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AleksandarIlievski/workload-classification/blob/main/notebook.ipynb)
+## Quick Start 🚀
 
-## Overview
+**1. Download Dataset:**  [![Download Data](https://img.shields.io/badge/Download-at_home_data.pkl-success?logo=google-drive&logoColor=white)](https://drive.google.com/uc?id=1HpaUvauJwK04ftqqrOAZWjscVMcefecp&export=download) 
 
-- **EEG Data** were collected using wearable dry-electrode headphones across 10 sessions per participant.
-- **Nine machine learning and deep learning models** were benchmarked under session- and subject-independent evaluation strategies.
-- **Training and evaluation** were developed and conducted in **Google Colab**.  
-  > **Note:** The notebook is optimized for Google Colab. Local execution may require minor adjustments.
+
+**2. Open Notebook in Colab:**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AleksandarIlievski/workload-classification/blob/main/notebook.ipynb) 
+
+
+## Project Description 📚
+
+- **Data Collection:** EEG signals were collected using wearable dry-electrode headphones across 10 sessions per participant in home environments.
+- **Model Benchmarking:** 9 machine learning and deep learning models were evaluated under both session- and subject-independent settings.
+- **Development:** The entire project was developed and tested within **Google Colab** for accessibility and reproducibility.
+
+> **Note:** The notebook is optimized for Google Colab. Local execution may require minor adjustments.
+
 
 ## Repository Structure 📁
 
 ```
 workload-classification/
 │
-├── at_home_data.pkl           # EEG dataset
+├── at_home_data.pkl           # EEG dataset (download separately)
 ├── notebook.ipynb             # Full analysis and training notebook
 ├── requirements.txt           # List of Python dependencies
 └── results/                   # Results and logs
 ```
 
-## How to Use 🚀
+---
 
-1. Open the provided **`notebook.ipynb`** in **Google Colab** or click the link above.
-2. Follow the notebook instructions to load the data, train models, and evaluate performance.
+## How to Use
 
-> If you intend to run scripts manually or outside Google Colab, installing dependencies from `requirements.txt` and adjusting paths/device settings may be necessary.
+1. Click **"Open in Colab"** to launch the notebook in Google Colab.
+2. Download the dataset using the **"Download Data"** button.
+3. Upload `at_home_data.pkl` and the `results` folder to the Colab environment and adjust the paths in the notebook.
+4. Follow the notebook instructions to load the data, train models, and evaluate performance.
+
+> If running locally, install required dependencies from `requirements.txt` and ensure device settings (e.g., GPU) are configured correctly.
+
+---
 
 ## Acknowledgments
 
