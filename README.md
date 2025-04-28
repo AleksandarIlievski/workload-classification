@@ -29,7 +29,7 @@ The project explores the challenges and possibilities of session- and subject-in
 workload-classification/
 │
 ├── at_home_data.pkl           # EEG dataset (download separately)
-├── notebook.ipynb             # Full analysis and training notebook
+├── mwl_classification.ipynb   # Full analysis and training notebook
 ├── requirements.txt           # List of Python dependencies
 └── results/                   # Results and logs
 ```
